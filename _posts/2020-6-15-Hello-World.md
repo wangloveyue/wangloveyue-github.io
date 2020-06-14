@@ -9,3 +9,6 @@ I know I have many disadvantages(just like this simple website), but I will try 
 
 Yours, 
 Haoran
+
+
+![_config.yml]({{site.baseurl}}/images/shengri.png)
